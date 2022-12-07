@@ -1,6 +1,6 @@
 # GED-Final
 
-#**Created From Scratch** 
+# **Created From Scratch** 
 
 This project was made from Scratch, since my Student Number is 100795120, with an accumulation of 25, I am ODD making me have the designated game of PAC-MAN.
 
